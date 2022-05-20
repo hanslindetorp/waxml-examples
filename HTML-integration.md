@@ -1,6 +1,6 @@
 
 ```HTML
-<button data-waxml-mousedown="play1">PLAY</button>
+<button data-waxml-pointerdown="play1">PLAY</button>
 ```
 
 ```XML
